@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: YoSoyFreeman
+title: Yo Soy Freeman
 email: yosoyfreeman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Dev blog of YoSoyFreeman. This site contains articles, resources and tutorials about game design, programming, 3D modelling and related topics using open source tools such as Godot engine, Blender, Material maker, Krita and other open source apps using Linux.
