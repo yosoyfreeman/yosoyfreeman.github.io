@@ -1,7 +1,8 @@
 ---
-layout: splash
+layout: home
 permalink: /
 hidden: true
+author_profile: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/oddworld_header.jpg
