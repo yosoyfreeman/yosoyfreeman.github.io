@@ -8,7 +8,7 @@ header:
   actions:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 excerpt: >
-  This site contains articles, resources and tutorials about game design, programming, 3D modelling and other game development topics using free software.
+  **This site contains articles, resources and tutorials about game design, programming, 3D modelling and other game development topics using free software.**
 feature_row:
   - image_path: /assets/images/home_godot.png
     alt: "Rendered in Godot"
