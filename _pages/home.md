@@ -13,7 +13,7 @@ feature_row:
   - image_path: /assets/images/home_godot.png
     alt: "Rendered in Godot"
     title: "Rendered in Godot"
-    excerpt: "PLACEHOLDER"
+    excerpt: "Godot engine is a powerful development tool with 2D and 3D capabilities. Is simple and user friendly, still capable of wonderful things."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
