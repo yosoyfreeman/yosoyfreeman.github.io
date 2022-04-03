@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "short_name": "",
+    "icons": [
+        {
+            "src": "https://yosoyfreeman.github.io/assets/images/favicon/android-chrome-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "start_url": "yosoyfreeman.github.io",
+    "display": "standalone",
+    "orientation": "portrait"
+}
