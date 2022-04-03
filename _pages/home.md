@@ -22,10 +22,7 @@ feature_row:
   - image_path: assets/images/home_linux.png
     alt: "Powered by Linux               "
     title: "Powered by Linux"
-    excerpt: ""
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+    excerpt: "The most popular open source operating system of the world put you in control of your system, not the other way around."
 ---
 
 {% include feature_row %}
