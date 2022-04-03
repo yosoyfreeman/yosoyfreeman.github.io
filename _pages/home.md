@@ -22,7 +22,8 @@ feature_row:
     alt: "Powered by Linux               "
     title: "Powered by Linux"
     excerpt: "---
-    PLACEHOLDER 
+    **PLACEHOLDER**
+    <div style="text-align: right"> your-text-here </div>
     {: .text-justify}"
     url: "/docs/license/"
     btn_class: "btn--primary"
