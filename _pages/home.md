@@ -29,7 +29,7 @@ feature_row:
 ---
 
 {% include feature_row %}
-Recent post:
+{Recent post:}
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
