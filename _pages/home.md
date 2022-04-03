@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/images/home_linux.png
     alt: "Powered by Linux               "
     title: "Powered by Linux"
-    excerpt: ""
+    excerpt: " <div style="text-align: right"> your-text-here </div> "
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
