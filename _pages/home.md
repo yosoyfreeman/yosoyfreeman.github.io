@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/home_open_source.png
     alt: "Built wih open source"
     title: "Built wih open source"
-    excerpt: "I started using Blender more than a decade. The community has grown a lot over this time and keeps empowering users all around the world."
+    excerpt: "The open source community keeps growing, creating incredible tools and  empowering users all around the world"
   - image_path: assets/images/home_linux.png
     alt: "Powered by Linux               "
     title: "Powered by Linux"
