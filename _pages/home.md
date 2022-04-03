@@ -27,11 +27,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
-
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 {% include feature_row %}
-<h3>
-<h3> texto texto texto de pruebaaa yeaaaaah</h3>
-</h3>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
