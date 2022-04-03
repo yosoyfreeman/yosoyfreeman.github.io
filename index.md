@@ -22,7 +22,7 @@ feature_row:
   - image_path: assets/images/home/home_linux.png
     alt: "Powered by Linux               "
     title: "Powered by Linux"
-    excerpt: "The most popular open source operating system of the world put you in control of your system, not the other way around."
+    excerpt: "The most popular open source operating system of the world puts you in control of your system, not the other way around."
 ---
 
 {% include feature_row %}
