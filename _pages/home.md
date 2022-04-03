@@ -3,6 +3,7 @@ layout: home
 permalink: /
 hidden: true
 author_profile: false
+classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/oddworld_header.jpg
