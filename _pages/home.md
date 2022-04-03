@@ -29,7 +29,7 @@ feature_row:
 ---
 
 {% include feature_row %}
-<h3 class="archive__subtitle"></h3>
+</h3>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
