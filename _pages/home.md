@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 classes: wide
-title: ""
+title: " "
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/oddworld_header.jpg
