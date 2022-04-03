@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/images/home_linux.png
     alt: "Powered by Linux               "
     title: "Powered by Linux"
-    excerpt: "PLACEHOLDER"
+    excerpt: "--- PLACEHOLDER {: .text-justify}"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
