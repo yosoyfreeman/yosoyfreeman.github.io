@@ -16,7 +16,7 @@
 title: Yo Soy Freeman
 email: yosoyfreeman@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dev blog of YoSoyFreeman. This site contains articles, resources and tutorials about game design, programming, 3D modelling and related topics using open source tools such as Godot engine, Blender, Material maker, Krita and other open source apps using Linux.
+  YoSoyFreeman's development blog. This site contains articles, resources and tutorials about game design, programming, 3D modelling and related topics using open source tools such as Godot engine, Blender, Material maker, Krita and other open source apps using Linux.
 twitter_username: yosoyfreeman
 github_username: yosoyfreeman
 minimal_mistakes_skin: dark
