@@ -29,7 +29,7 @@ feature_row:
 ---
 
 {% include feature_row %}
-<h3></h3>
+<h3> texto texto texto de pruebaaa yeaaaaah</h3>
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
