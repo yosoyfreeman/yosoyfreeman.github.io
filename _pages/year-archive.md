@@ -12,5 +12,5 @@ header:
   - label: "Sort by tag"
     url: "https://yosoyfreeman.github.io/tags/"
       
-author_profile: true
+author_profile: false
 ---
