@@ -6,6 +6,10 @@ author_profile: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
-  actions:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
+  actions:
+  - label: "Sort by year"
+    url: "https://yosoyfreeman.github.io/post/"
+  - label: "Sort by tag"
+    url: "https://yosoyfreeman.github.io/tags/"
 ---
