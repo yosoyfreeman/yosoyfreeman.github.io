@@ -2,6 +2,7 @@
 title: "Post by year"
 permalink: /posts/
 layout: posts
+class: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
@@ -12,5 +13,5 @@ header:
   - label: "Sort by tag"
     url: "https://yosoyfreeman.github.io/tags/"
       
-author_profile: false
+author_profile: true
 ---
