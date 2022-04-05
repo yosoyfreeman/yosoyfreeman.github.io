@@ -9,6 +9,10 @@ header:
   actions:
   - label: "Sort by year"
     url: "https://yosoyfreeman.github.io/posts/"
+  - label: "Sort by category"
+    url: "https://yosoyfreeman.github.io/categories/"
+  - label: "Sort by tag"
+    url: "https://yosoyfreeman.github.io/tags/"
       
 author_profile: true
 ---
