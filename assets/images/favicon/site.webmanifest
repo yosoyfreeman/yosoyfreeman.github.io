@@ -1,5 +1,6 @@
 {
     "name": "Yo Soy Freeman",
+    "scope": "/myapp/",
     "short_name": "",
     "icons": [
         {
