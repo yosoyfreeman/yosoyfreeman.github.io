@@ -21,6 +21,7 @@ twitter_username: yosoyfreeman
 github_username: yosoyfreeman
 minimal_mistakes_skin: dark
 search: true
+url: "https://yosoyfreeman.github.io/"
 
 # Build settings
 markdown: kramdown
