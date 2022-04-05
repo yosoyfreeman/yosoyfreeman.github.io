@@ -2,6 +2,7 @@
 title: "Post by year"
 permalink: /posts/
 layout: posts
+classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
