@@ -10,7 +10,7 @@
     ],
     "theme_color": "#000000",
     "background_color": "#000000",
-    "start_url": "yosoyfreeman.github.io",
+    "start_url": "yosoyfreeman.github.io/index",
     "display": "standalone",
     "orientation": "portrait"
 }
