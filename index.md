@@ -23,3 +23,4 @@ feature_row:
     title: "Powered by Linux"
     excerpt: "The most popular open source operating system of the world puts you in control of your system, not the other way around."
 ---
+{% include feature_row %}
