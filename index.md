@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home-splash
 hidden: true
 title: " "
 header:
