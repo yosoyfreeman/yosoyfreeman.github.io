@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
   actions:
   - label: "Sort by year"
-    url: "https://yosoyfreeman.github.io/post/"
+    url: "https://yosoyfreeman.github.io/posts/"
   - label: "Sort by category"
     url: "https://yosoyfreeman.github.io/categories/"
 ---
