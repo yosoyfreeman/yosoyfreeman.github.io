@@ -2,6 +2,9 @@
 title: "Super awesome free asset example"
 excerpt: "This is a super incredible free example asset"
 header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/home/oddworld_header.jpg
+  caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
   teaser: assets/images/placeholders/500x300.png
 sidebar:
   - title: "Tittle"
