@@ -22,6 +22,8 @@ github_username: yosoyfreeman
 minimal_mistakes_skin: dark
 search: true
 url: "https://yosoyfreeman.github.io/"
+#Seo 
+google_site_verification: "4I3eQ3G0rPHSKLseZZAlItn6W8vI3Cmgf-OXL4Gzzu8"
 
 # Build settings
 markdown: kramdown
