@@ -111,6 +111,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _assets
+  - scope:
+      path: ""
+      type: assets
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 category_archive:
   type: liquid
