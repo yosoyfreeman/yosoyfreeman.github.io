@@ -21,6 +21,7 @@ gallery:
   - url: assets/images/placeholders/500x300.png
     image_path: assets/images/placeholders/500x300.png
     alt: "placeholder image 3"
+classes: wide
 ---
 
 Some cool text about the asset.
