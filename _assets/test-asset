@@ -2,8 +2,8 @@
 title: "Super awesome free asset example"
 excerpt: "This is a super incredible free example asset"
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: assets/images/home/oddworld_header.jpg
+  teaser: assets/images/home/oddworld_header.jpg
 sidebar:
   - title: "Tittle"
     image: http://placehold.it/350x250
