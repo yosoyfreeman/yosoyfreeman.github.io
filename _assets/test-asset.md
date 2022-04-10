@@ -2,7 +2,6 @@
 title: "Super awesome free asset example"
 excerpt: "This is a super incredible free example asset"
 header:
-  overlay_color: "#5e616c"
   teaser: assets/images/placeholders/500x300.png
 sidebar:
   - title: "Tittle"
