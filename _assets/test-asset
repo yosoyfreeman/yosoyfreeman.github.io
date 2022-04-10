@@ -3,7 +3,7 @@ title: "Super awesome free asset example"
 excerpt: "This is a super incredible free example asset"
 header:
   image: assets/images/home/oddworld_header.jpg
-  teaser: assets/images/home/oddworld_header.jpg
+  teaser: http://placehold.it/500x300
 sidebar:
   - title: "Tittle"
     image: http://placehold.it/350x250
