@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Yo Soy Freeman"
   avatar : "/assets/images/profile.png"
-  bio    : "I'm a neurodivergent game developer and multi disciplinar artist in love with open source technology. based in spain."
+  bio    : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
   location : "Spain"
   links:
     - label: "Website"
