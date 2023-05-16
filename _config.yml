@@ -81,12 +81,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yosoyfreeman"
+    - label: "Mastodon"
+      icon: "fas fa-hashtag fa-sm"
+      url: "https://mastodon.gamedev.place/@YoSoyFreeman"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-code fa-xs"
       url: "https://github.com/yosoyfreeman"
+    - label: "Codeberg"
+      icon: "fas fa-code fa-xs"
+      url: "https://codeberg.org/YoSoyFreeman"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/yosoyfreeman"
