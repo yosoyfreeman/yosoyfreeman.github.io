@@ -1,6 +1,6 @@
 ---
 title: "Post: Chat"
-layout: default
+classes: wide
 categories:
   - Blog
 tags:
