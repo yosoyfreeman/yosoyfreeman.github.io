@@ -1,5 +1,6 @@
 ---
 title: "Post: Chat"
+layout: default
 categories:
   - Blog
 tags:
