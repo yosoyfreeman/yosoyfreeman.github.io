@@ -70,7 +70,7 @@ author:
       icon: "fab fa-mastodon fa-lg"
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
     - label: "GitHub"
-      icon: "fab fa-git-square"
+      icon: "fab fa-git-alt fa-lg"
       url: "https://github.com/yosoyfreeman"
     #- label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
