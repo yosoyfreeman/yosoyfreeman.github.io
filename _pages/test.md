@@ -3,4 +3,12 @@ layout: home
 permalink: /test/
 ---
 
-<iframe id='kofiframe' src='https://ko-fi.com/yosoyfreeman/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#252a34;' height='712' title='yosoyfreeman'></iframe>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('yosoyfreeman', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support Me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
