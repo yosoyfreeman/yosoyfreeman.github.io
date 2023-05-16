@@ -128,7 +128,6 @@ defaults:
       layout: single
       classes: wide
       author_profile: false
-      share: true
 
 
 category_archive:
