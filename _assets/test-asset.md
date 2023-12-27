@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/home/oddworld_header.jpg
   actions:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
+  teaser: assets/images/placeholders/500x300.png
 sidebar:
   - title: "Tittle"
     image: assets/images/placeholders/500x300.png
