@@ -4,7 +4,7 @@ layout: collection
 permalink: /assets/
 collection: assets
 entries_layout: grid
-author_profile: true
+author_profile: false
 classes: wide
 header:
   overlay_color: "#5e616c"
