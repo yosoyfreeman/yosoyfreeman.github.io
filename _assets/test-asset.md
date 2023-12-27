@@ -1,5 +1,6 @@
 ---
 title: "Super awesome free asset example"
+excerpt: ""
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
