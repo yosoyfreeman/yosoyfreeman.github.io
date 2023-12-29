@@ -14,4 +14,4 @@ header:
       
 author_profile: true
 ---
-test [Text](https://www.google.com/){: .btn .btn--inverse}
+test [Text](https://www.google.com/){: .btn .btn--light-outline}
