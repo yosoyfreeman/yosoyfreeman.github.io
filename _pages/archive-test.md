@@ -14,4 +14,5 @@ header:
       
 author_profile: true
 ---
-test [Text](/assets){: .btn .btn--light-outline}
+test [Text](/assets){: .btn .btn--light-outline} [Text](/assets){: .btn .btn--primary}
+
