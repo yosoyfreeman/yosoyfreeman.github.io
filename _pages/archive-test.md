@@ -5,5 +5,5 @@ layout: posts
 
 author_profile: true
 ---
-test [Sort by category](/categories){: .btn .btn--primary} [Sort by tag](/tags){: .btn .btn--primary}
+[Sort by category](/categories){: .btn .btn--primary} [Sort by tag](/tags){: .btn .btn--primary}
 
