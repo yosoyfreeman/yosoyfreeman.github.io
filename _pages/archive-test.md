@@ -14,4 +14,4 @@ header:
       
 author_profile: true
 ---
-test [Text](https://www.google.com/){: .btn .btn--light-outline}
+test [Text](/_pages/assets.md){: .btn .btn--light-outline}
