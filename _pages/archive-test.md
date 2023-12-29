@@ -5,5 +5,5 @@ layout: posts
 
 author_profile: true
 ---
-test [Text](/assets){: .btn .btn--light-outline} [Text](/assets){: .btn .btn--primary} [Text](/assets){: .btn .btn--inverse}
+test [Sort by categories](/categories){: .btn .btn--primary} [Sort by tag](/tags){: .btn .btn--primary}
 
