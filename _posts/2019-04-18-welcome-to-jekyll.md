@@ -5,6 +5,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
+excerpt: >
+  **This site contains articles, resources and tutorials about game design, programming, 3D modelling and other game development topics using free software.**
 categories:
   - blog
 tags:
