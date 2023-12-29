@@ -1,0 +1,51 @@
+---
+layout: default
+feature_row:
+  - image_path: /assets/images/home/home_godot.png
+    alt: "Rendered in Godot"
+    title: "Rendered in Godot"
+    excerpt: "Godot engine is a powerful development tool with 2D and 3D capabilities. Is simple and user friendly, still capable of wonderful things."
+  - image_path: /assets/images/home/home_open_source.png
+    alt: "Built wih open source"
+    title: "Built wih open source"
+    excerpt: "The open source community keeps growing, creating incredible tools and  empowering users all around the world."
+  - image_path: assets/images/home/home_linux.png
+    alt: "Powered by Linux               "
+    title: "Powered by Linux"
+    excerpt: "The most popular open source operating system of the world puts you in control of your system, not the other way around."
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+    {% include feature_row %}
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </article>
+
+  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+  {% if paginator %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  {% assign entries_layout = page.entries_layout | default: 'list' %}
+  <div class="entries-{{ entries_layout }}">
+    {% for post in posts %}
+      {% include archive-single.html type=entries_layout %}
+    {% endfor %}
+  </div>
+
+  {% include paginator.html %}
+</div>
