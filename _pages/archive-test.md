@@ -1,5 +1,5 @@
 ---
-title: "Post by year"
+title: "Posts by year"
 permalink: /posts2/
 layout: posts
 
