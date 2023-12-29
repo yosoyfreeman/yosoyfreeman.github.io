@@ -1,6 +1,10 @@
 ---
 title: "Welcome to Jekyll!"
 date: 2019-04-18T15:34:30-04:00
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/home/oddworld_header.jpg
+  caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 categories:
   - blog
 tags:
