@@ -5,6 +5,7 @@ permalink: /assets/
 collection: assets
 entries_layout: list
 author_profile: false
+entries_layout: grid
 classes: wide
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
