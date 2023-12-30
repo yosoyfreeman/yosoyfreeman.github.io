@@ -57,7 +57,7 @@ At the moment it contains:
 - Rust
 - Steel
 - Wood
-
+{: style="text-align: right;"}
 All materials are designed to cover 4 x 4 meters.
 {% include gallery layout="half" %}
 
