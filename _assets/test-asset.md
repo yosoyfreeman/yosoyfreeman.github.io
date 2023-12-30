@@ -40,6 +40,7 @@ gallery:
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/d3de2535-b69f-4af3-a618-c685ffb82106_capturesde2023-06-2413-49-43.png
     alt: "Wood"
 ---
+# Description
 This open source library consists of a variety of generic procedural materials. You can use them as they are or as a base to create more complex ones. 
 {: style="text-align: justify;"}
 
