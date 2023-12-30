@@ -57,5 +57,5 @@ At the moment it contains:
 - Wood
 
 All materials are designed to cover 4 x 4 meters.
-{% include gallery %}
+{% include gallery layout="half" %}
 
