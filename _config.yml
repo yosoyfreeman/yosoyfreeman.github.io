@@ -97,6 +97,9 @@ collections:
   assets:
     output: true
     permalink: /:collection/:path/
+  materials:
+    output: true
+    permalink: /:collection/:path/
 
 
 defaults:
@@ -128,7 +131,14 @@ defaults:
       layout: single
       #classes: wide
       author_profile: false
-
+   # _materials
+  - scope:
+      path: ""
+      type: materials
+    values:
+      layout: single
+      #classes: wide
+      author_profile: false
 
 category_archive:
   type: liquid
