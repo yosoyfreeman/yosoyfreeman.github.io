@@ -110,6 +110,7 @@ defaults:
       read_time: true
       comments: true
       related: true
+      share: true
       show_date: true
   # _pages
   - scope:
