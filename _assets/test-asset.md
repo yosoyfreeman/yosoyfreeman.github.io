@@ -1,6 +1,5 @@
 title: "Super awesome free asset example"
 excerpt: ""
-classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
@@ -19,10 +18,9 @@ gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/458b3717-5df1-4c33-aa2e-458a3818c8aa_capturesde2023-06-2413-44-49.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/458b3717-5df1-4c33-aa2e-458a3818c8aa_capturesde2023-06-2413-44-49.png
     alt: "Copper"
-    - url: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
-    alt: "Iron"
-  - url: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
+    alt: "Iron"- url: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
     alt: "Paint"
   - url: https://storage.ko-fi.com/cdn/useruploads/display/7e1d62b6-b34b-4a39-b2ba-3a6d6ed14a69_capturesde2023-06-2413-47-57.png
@@ -34,7 +32,7 @@ gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/d3de2535-b69f-4af3-a618-c685ffb82106_capturesde2023-06-2413-49-43.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/d3de2535-b69f-4af3-a618-c685ffb82106_capturesde2023-06-2413-49-43.png
     alt: "Wood"
-
+classes: wide
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png/){: .align-center}
