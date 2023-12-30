@@ -8,9 +8,8 @@ header:
   teaser: assets/images/placeholders/500x300.png
 sidebar:
   - title: "Downloads:"
-    image: assets/images/placeholders/500x300.png
-    image_alt: "logo"
     text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary .btn--x-large} "
+    text: "[Material Maker asset library](https://www.materialmaker.org/materials?search=freeman&type=material){: .btn .btn--primary .btn--x-large} "
   - title: "License:"
     text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary .btn--x-large} "
 gallery:
