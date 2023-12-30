@@ -27,6 +27,8 @@ classes: wide
 
 ![image-center]({{ site.url }}{{ site.baseurl }}https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png/){: .align-center}
 
+{% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+
 Some cool text about the asset.
 
 
