@@ -25,7 +25,7 @@ gallery:
 classes: wide
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}assets/images/placeholders/500x300.png){: .align-center}
 
 Some cool text about the asset.
 
