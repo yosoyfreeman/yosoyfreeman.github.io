@@ -37,13 +37,13 @@ gallery:
     alt: "Wood"
 ---
 {% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
-This open source library consists of a variety of generic procedural materials. You can use them as they are or as a base to create more complex ones. 
+  This open source library consists of a variety of generic procedural materials. You can use them as they are or as a base to create more complex ones. 
 
-It aims to provide a set of resources with a consistent art style that everyone can use in their own projects. 
+  It aims to provide a set of resources with a consistent art style that everyone can use in their own projects. 
 
-All the source files have been created with ([Material Maker](https://www.materialmaker.org/)), a free and open source procedural material authoring tool.
+  All the source files have been created with ([Material Maker](https://www.materialmaker.org/)), a free and open source procedural material authoring tool.
 
-This materials can also be found in Material Maker's [public asset library](https://www.materialmaker.org/materials?search=freeman&type=material).
+  This materials can also be found in Material Maker's [public asset library](https://www.materialmaker.org/materials?search=freeman&type=material).
 
 At the moment it contains:
 - Concrete
