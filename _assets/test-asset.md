@@ -1,5 +1,5 @@
 ---
-title: "Super awesome free asset example"
+title: "Freeman's Library for Material Maker"
 excerpt: ""
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
@@ -35,6 +35,27 @@ gallery:
     alt: "Wood"
 classes: wide
 ---
+
+This open source library consists of a variety of generic procedural materials. You can use them as they are or as a base to create more complex ones. 
+
+It aims to provide a set of resources with a consistent art style that everyone can use in their own projects. 
+
+All the source files have been created with Material Maker (www.materialmaker.org), a free and open source procedural material authoring tool.
+
+This materials can also be found in Material Maker's public asset library.
+
+At the moment it contains:
+- Concrete
+- Copper
+- Iron
+- Paint
+- Plastic
+- Rust
+- Steel
+- Wood
+
+All materials are designed to cover 4 x 4 meters.
+
 {% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
 {% include gallery %}
 
