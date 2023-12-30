@@ -125,8 +125,8 @@ defaults:
       author_profile: true
   # _assets
   - scope:
-      path: ""
-      type: assets
+      path: "_pages"
+      #type: assets
     values:
       layout: single
       #classes: wide
