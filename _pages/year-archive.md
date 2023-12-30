@@ -2,15 +2,10 @@
 title: "Post by year"
 permalink: /posts/
 layout: posts
+author_profile: true
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
-  actions:
-  - label: "Sort by category"
-    url: "https://yosoyfreeman.github.io/categories/"
-  - label: "Sort by tag"
-    url: "https://yosoyfreeman.github.io/tags/"
-      
-author_profile: true
 ---
+[Sort by year](#){: .btn .btn--success} [Sort by category](/categories){: .btn .btn--primary} [Sort by tag](/tags){: .btn .btn--primary}
+
