@@ -47,14 +47,14 @@ This materials can also be found in Material Maker's [public asset library](http
 {: style="text-align: justify;"}
 At the moment it contains:
 {: style="text-align: left;"}
-- Concrete
-- Copper
-- Iron
-- Paint
-- Plastic
-- Rust
-- Steel
-- Wood
+* Concrete
+* Copper
+* Iron
+* Paint
+* Plastic
+* Rust
+* Steel
+* Wood
 {: style="text-align: left;"}
 All materials are designed to cover 4 x 4 meters.
 {: style="text-align: justify;"}
