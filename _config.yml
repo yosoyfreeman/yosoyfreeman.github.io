@@ -126,7 +126,7 @@ defaults:
   # _assets
   - scope:
       path: "_pages"
-      #type: assets
+      type: assets
     values:
       layout: single
       #classes: wide
