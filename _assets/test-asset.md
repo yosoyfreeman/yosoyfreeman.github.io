@@ -49,7 +49,8 @@ gallery:
   {: style="text-align: justify;"}
 
 At the moment it contains:
-Concrete -
+{: style="text-align: left;"}
+- Concrete
 - Copper
 - Iron
 - Paint
@@ -57,7 +58,8 @@ Concrete -
 - Rust
 - Steel
 - Wood
-{: style="text-align: right;"}
+{: style="text-align: left;"}
 All materials are designed to cover 4 x 4 meters.
+{: style="text-align: justify;"}
 {% include gallery layout="half" %}
 
