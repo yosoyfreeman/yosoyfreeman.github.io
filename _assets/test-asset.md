@@ -21,7 +21,8 @@ gallery:
     alt: "Copper"
   - url: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
-    alt: "Iron"- url: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
+    alt: "Iron"
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
     alt: "Paint"
   - url: https://storage.ko-fi.com/cdn/useruploads/display/7e1d62b6-b34b-4a39-b2ba-3a6d6ed14a69_capturesde2023-06-2413-47-57.png
