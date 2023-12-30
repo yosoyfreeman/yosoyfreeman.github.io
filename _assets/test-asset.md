@@ -7,7 +7,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
   teaser: assets/images/placeholders/500x300.png
 sidebar:
-  - title: "Tittle [Primary Button Text](#link){: .btn .btn--primary} "
+  - title: ""
     image: assets/images/placeholders/500x300.png
     image_alt: "logo"
     text: "Tittle [Primary Button Text](#link){: .btn .btn--primary} " 
