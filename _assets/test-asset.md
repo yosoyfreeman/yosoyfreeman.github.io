@@ -43,14 +43,19 @@ gallery:
 ----
 This open source library consists of a variety of generic procedural materials. You can use them as they are or as a base to create more complex ones. 
 {: style="text-align: justify;"}
+
 It aims to provide a set of resources with a consistent art style that everyone can use in their own projects.
 {: style="text-align: justify;"}
+
 All the source files have been created with [Material Maker](https://www.materialmaker.org/), a free and open source procedural material authoring tool.
 {: style="text-align: justify;"}
+
 This materials can also be found in Material Maker's [public asset library](https://www.materialmaker.org/materials?search=freeman&type=material).
 {: style="text-align: justify;"}
+
 At the moment it contains:
 {: style="text-align: left;"}
+
 * Concrete
 * Copper
 * Iron
@@ -60,7 +65,9 @@ At the moment it contains:
 * Steel
 * Wood
 {: style="text-align: left;"}
+
 All materials are designed to cover 4 x 4 meters.
-{: style="text-align: justify;"}
+{: .notice}
+
 {% include gallery layout="half" %}
 
