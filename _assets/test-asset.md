@@ -40,7 +40,7 @@ This open source library consists of a variety of generic procedural materials. 
 
 It aims to provide a set of resources with a consistent art style that everyone can use in their own projects. 
 
-All the source files have been created with Material Maker (www.materialmaker.org), a free and open source procedural material authoring tool.
+All the source files have been created with Material Maker ([www.materialmaker.org](https://www.materialmaker.org/)), a free and open source procedural material authoring tool.
 
 This materials can also be found in Material Maker's public asset library.
 
