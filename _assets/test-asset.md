@@ -10,7 +10,9 @@ sidebar:
   - title: "Downloads:"
     image: assets/images/placeholders/500x300.png
     image_alt: "logo"
-    text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary} " 
+    text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary} "
+  - title: ""
+    text: "license CC0" 
 gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
