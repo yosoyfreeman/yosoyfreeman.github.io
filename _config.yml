@@ -117,7 +117,7 @@ defaults:
       type: pages
     values:
       layout: single
-      classes: wide
+      #classes: wide
       author_profile: true
   # _assets
   - scope:
@@ -125,7 +125,7 @@ defaults:
       type: assets
     values:
       layout: single
-      classes: wide
+      #classes: wide
       author_profile: false
 
 
