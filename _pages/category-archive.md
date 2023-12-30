@@ -3,6 +3,7 @@ title: "Posts by Category"
 layout: categories
 permalink: /categories/
 author_profile: true
+entries_layout: grid
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
