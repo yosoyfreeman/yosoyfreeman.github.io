@@ -1,4 +1,3 @@
-![imagen](https://github.com/yosoyfreeman/yosoyfreeman.github.io/assets/64601424/4eded446-8099-442f-bb90-78da5fb4090e)---
 title: "Super awesome free asset example"
 excerpt: ""
 classes: wide
