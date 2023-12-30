@@ -25,7 +25,7 @@ gallery:
 classes: wide
 ---
 
-![image-center]({{ site.url }}{{ site.baseurl }}assets/images/placeholders/500x300.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/placeholders/500x300.png){: .align-center}
 
 Some cool text about the asset.
 
