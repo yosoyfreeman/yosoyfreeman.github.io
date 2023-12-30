@@ -68,7 +68,7 @@ At the moment it contains:
 
 All materials are designed to cover 4 x 4 meters.
 {: .notice}
-
+---
 ## Images
 {% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
 {% include gallery layout="half" %}
