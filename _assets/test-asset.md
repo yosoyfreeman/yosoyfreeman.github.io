@@ -10,7 +10,7 @@ sidebar:
   - title: "Tittle"
     image: assets/images/placeholders/500x300.png
     image_alt: "logo"
-    text: "Tittle"
+    text: "Tittle [Primary Button Text](#link){: .btn} " 
 gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
