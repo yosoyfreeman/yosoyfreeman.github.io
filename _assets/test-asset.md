@@ -8,9 +8,9 @@ header:
   teaser: assets/images/placeholders/500x300.png
 sidebar:
   - title: "Downloads:"
-    text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary .btn--large} [Material Maker asset library](https://www.materialmaker.org/materials?search=freeman&type=material){: .btn .btn--primary .btn--x-large}  "
+    text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary } [Material Maker asset library](https://www.materialmaker.org/materials?search=freeman&type=material){: .btn .btn--primary }  "
   - title: "License:"
-    text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary .btn--large} "
+    text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary} "
 gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
