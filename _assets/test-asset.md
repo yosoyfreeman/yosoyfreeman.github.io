@@ -69,6 +69,6 @@ At the moment it contains:
 All materials are designed to cover 4 x 4 meters.
 {: .notice}
 
-# Images
+## Images
 {% include gallery layout="half" %}
 
