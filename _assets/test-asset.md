@@ -49,7 +49,7 @@ gallery:
   {: style="text-align: justify;"}
 
 At the moment it contains:
-- Concrete
+Concrete -
 - Copper
 - Iron
 - Paint
