@@ -2,7 +2,6 @@
 title: "Super awesome free asset example"
 excerpt: ""
 header:
-  overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
   actions:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
@@ -36,13 +35,6 @@ gallery:
     alt: "Wood"
 classes: wide
 ---
-
-![image-center]({{ site.url }}{{ site.baseurl }}https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png/){: .align-center}
-
-{% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image" caption="This is a figure caption." %}
-
-Some cool text about the asset.
-
-
-{% include gallery caption="Even some cool images." %}
+{% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
+{% include gallery %}
 
