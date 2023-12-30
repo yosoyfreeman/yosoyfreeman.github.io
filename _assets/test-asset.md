@@ -13,9 +13,9 @@ sidebar:
     image_alt: "logo"
     text: "Tittle"
 gallery:
-  - url: assets/images/placeholders/500x300.png
-    image_path: assets/images/placeholders/500x300.png
-    alt: "placeholder image 1"
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
+    alt: "Concrete"
   - url: assets/images/placeholders/500x300.png
     image_path: assets/images/placeholders/500x300.png
     alt: "placeholder image 2"
