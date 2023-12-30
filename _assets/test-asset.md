@@ -38,7 +38,7 @@ gallery:
     alt: "Wood"
 classes: wide
 ---
-
+{% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
 This open source library consists of a variety of generic procedural materials. You can use them as they are or as a base to create more complex ones. 
 
 It aims to provide a set of resources with a consistent art style that everyone can use in their own projects. 
@@ -58,7 +58,5 @@ At the moment it contains:
 - Wood
 
 All materials are designed to cover 4 x 4 meters.
-
-{% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
 {% include gallery %}
 
