@@ -7,12 +7,12 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
   teaser: assets/images/placeholders/500x300.png
 sidebar:
-  - title: "Downloads:"
+  - title: "**Downloads:**"
   - title: ""
     text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary } "
   - title: ""
     text: "[Material Maker asset library](https://www.materialmaker.org/materials?search=freeman&type=material){: .btn .btn--primary } "
-  - title: "License:"
+  - title: "**License:**"
     text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary} "
 gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
