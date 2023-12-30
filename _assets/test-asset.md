@@ -1,6 +1,7 @@
----
+![imagen](https://github.com/yosoyfreeman/yosoyfreeman.github.io/assets/64601424/4eded446-8099-442f-bb90-78da5fb4090e)---
 title: "Super awesome free asset example"
 excerpt: ""
+classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/home/oddworld_header.jpg
@@ -16,13 +17,25 @@ gallery:
   - url: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
     image_path: https://storage.ko-fi.com/cdn/useruploads/display/ef8be95c-f5a4-4663-b286-de2ad8d290aa_capturesde2023-06-2413-44-30.png
     alt: "Concrete"
-  - url: assets/images/placeholders/500x300.png
-    image_path: assets/images/placeholders/500x300.png
-    alt: "placeholder image 2"
-  - url: assets/images/placeholders/500x300.png
-    image_path: assets/images/placeholders/500x300.png
-    alt: "placeholder image 3"
-classes: wide
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/458b3717-5df1-4c33-aa2e-458a3818c8aa_capturesde2023-06-2413-44-49.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/458b3717-5df1-4c33-aa2e-458a3818c8aa_capturesde2023-06-2413-44-49.png
+    alt: "Copper"
+    - url: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/11d1c524-bc88-430a-bd69-730d8a1d10cd_capturesde2023-06-2413-45-06.png
+    alt: "Iron"
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/3e449d64-f7c2-4c74-bb67-0ad36653381f_capturesde2023-06-2413-45-44.png
+    alt: "Paint"
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/7e1d62b6-b34b-4a39-b2ba-3a6d6ed14a69_capturesde2023-06-2413-47-57.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/7e1d62b6-b34b-4a39-b2ba-3a6d6ed14a69_capturesde2023-06-2413-47-57.png
+    alt: "Rust"
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/e1fdd972-e34f-4aa9-8b28-32430751c0cb_capturesde2023-06-2413-48-12.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/e1fdd972-e34f-4aa9-8b28-32430751c0cb_capturesde2023-06-2413-48-12.png
+    alt: "Steel"
+  - url: https://storage.ko-fi.com/cdn/useruploads/display/d3de2535-b69f-4af3-a618-c685ffb82106_capturesde2023-06-2413-49-43.png
+    image_path: https://storage.ko-fi.com/cdn/useruploads/display/d3de2535-b69f-4af3-a618-c685ffb82106_capturesde2023-06-2413-49-43.png
+    alt: "Wood"
+
 ---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png/){: .align-center}
