@@ -3,7 +3,7 @@ title: Assets
 layout: collection
 permalink: /assets/
 collection: assets
-author_profile: false
+author_profile: true
 entries_layout: list
 show_excerpts: true
 #classes: wide
