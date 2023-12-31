@@ -95,7 +95,7 @@ footer:
 
 collections:
   assets:
-    output: true
+    output: false
     permalink: /:collection/:path/
   materials:
     output: true
