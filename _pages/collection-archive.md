@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Posts by Collection"
+title: "Assets"
 permalink: /collection-archive/
 author_profile: true
 header:
