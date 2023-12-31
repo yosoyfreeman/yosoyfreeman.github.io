@@ -24,16 +24,12 @@ header:
   {% endfor %}
 {% endfor %}
 
-<font size=”1”> 
-[Back to Top ↑](#)
-</font>
-{: style="text-align: right;"}
-
-<font size="1">  [Back to Top ↑](#top) </font>  
-
-
 <font size="1"> <a href="#">Back to Top ↑</a> </font>  
 {: style="text-align: right;"}
+
+<p align="right">
+        Right align content
+</p>
 
 ---
 
