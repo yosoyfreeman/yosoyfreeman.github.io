@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 title: "Assets"
 permalink: /collection-archive/
 author_profile: true
