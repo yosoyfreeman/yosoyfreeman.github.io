@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 
-# Materials
+## Materials
 
 ---
 {% capture written_label %}'None'{% endcapture %}
