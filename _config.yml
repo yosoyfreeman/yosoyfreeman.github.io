@@ -64,7 +64,7 @@ author:
   location    : "Guadalajara, Spain"
   links:
     - label: "Location"
-      icon: "fas fa-location-dot"
+      icon: "fa-solid fa-code"
       url: ""
     - label: "Mastodon"
       icon: "fas fa-hashtag fa-sm"
