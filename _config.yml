@@ -58,9 +58,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Yo Soy Freeman"
-  avatar : "/assets/images/profile.png"
-  bio    : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
+  name        : "Yo Soy Freeman"
+  avatar      : "/assets/images/profile.png"
+  bio         : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
+  location    : "Somewhere"
   links:
     #- label: "Website"
      # icon: "fas fa-fw fa-link"
