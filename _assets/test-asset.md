@@ -1,6 +1,5 @@
 ---
 title: "Freeman's Library for Material Maker"
-excerpt: ""
 header:
   teaser: https://placehold.co/500x300?text=Freeman%27s+Library+for+Material+Maker
   overlay_image: /assets/images/home/oddworld_header.jpg
