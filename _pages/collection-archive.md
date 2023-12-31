@@ -31,7 +31,8 @@ header:
 
 <font size="1">  [Back to Top ↑](#top) </font>  
 
-<a href="#">link text</a>
+
+<font size="1"> <a href="#">link text</a> </font>  
 
 a {font-size: 10px}
 
