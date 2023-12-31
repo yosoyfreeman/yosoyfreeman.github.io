@@ -4,9 +4,9 @@ layout: collection
 permalink: /assets/
 collection: assets
 author_profile: true
-entries_layout: list
-show_excerpts: true
-#classes: wide
+entries_layout: grid
+#show_excerpts: true
+classes: wide
 
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
