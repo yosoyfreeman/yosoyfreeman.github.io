@@ -78,6 +78,9 @@ author:
 
 footer:
   links:
+    - label: "Ko-fi"
+      icon: "fas fa-fw fa-mug-hot"
+      url: "https://ko-fi.com/yosoyfreeman"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
