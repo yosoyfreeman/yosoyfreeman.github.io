@@ -25,7 +25,7 @@ header:
 {% endfor %}
 
 <p align="right">
-        <font size="2"> <a href="#">Back to Top ↑</a> </font>  
+        <font size="2"> <a href="#">BACK TO TOP ↑</a> </font>  
 </p>
 
 ---
