@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Assets"
 permalink: /collection-archive/
 author_profile: true
