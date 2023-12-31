@@ -33,7 +33,7 @@ header:
 
 <a href="#">link text</a>
 
-a {font-size: 100px}
+a {font-size: 10px}
 
 ---
 
