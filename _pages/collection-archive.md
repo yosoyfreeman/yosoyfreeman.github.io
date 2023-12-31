@@ -24,3 +24,13 @@ header:
 {% endfor %}
 
 ## more Materials
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" %}
+      {% include archive-single.html type=page.entries_layout %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
