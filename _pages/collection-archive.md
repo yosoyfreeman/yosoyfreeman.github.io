@@ -13,7 +13,7 @@ header:
 
 ---
 
-### Materials
+### Materials 2019
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
