@@ -23,7 +23,6 @@ header:
     {% endunless %}
   {% endfor %}
 {% endfor %}
-
 <p align="right">
         <font size="2"> <a href="#">BACK TO TOP ↑</a> </font>  
 </p>
@@ -40,4 +39,8 @@ header:
     {% endunless %}
   {% endfor %}
 {% endfor %}
+<p align="right">
+        <font size="2"> <a href="#">BACK TO TOP ↑</a> </font>  
+</p>
+
 ---
