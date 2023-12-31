@@ -17,3 +17,12 @@ header:
     {% endunless %}
   {% endfor %}
 {% endfor %}
+
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for post in materials.docs %}
+  {% unless materials.output == false or collection.label == "posts" %}
+    {% include archive-single.html type=page.entries_layout %}
+  {% endunless %}
+{% endfor %}
