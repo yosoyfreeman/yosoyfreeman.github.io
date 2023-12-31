@@ -10,6 +10,7 @@ header:
 ---
 
 # Materials
+
 ---
 {% capture written_label %}'None'{% endcapture %}
 
