@@ -28,11 +28,10 @@ header:
 [Back to Top ↑](#)
 </font>
 {: style="text-align: right;"}
-<font size="25">  
+<font size="1">  
     Hello World 
 </font>  
 
-<h1 style="font-size: 1;"> Hello World! </h1>
 
 ---
 
