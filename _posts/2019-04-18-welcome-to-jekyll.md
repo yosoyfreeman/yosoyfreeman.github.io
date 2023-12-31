@@ -8,7 +8,7 @@ header:
 excerpt: >
   **This site contains articles, resources and tutorials about game design, programming, 3D modelling and other game development topics using free software.**
 categories:
-  - blog
+  - Blog
 tags:
   - Jekyll
   - update
