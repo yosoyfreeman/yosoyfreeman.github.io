@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Assets"
-permalink: /assets/all
+permalink: /assets/all/
 author_profile: true
 ---
 
