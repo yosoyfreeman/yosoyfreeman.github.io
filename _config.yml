@@ -64,7 +64,7 @@ author:
   bio         : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
   links:
     - label: "Mastodon"
-      icon: "fas fa-hashtag"
+      icon: "fab fa-fw fa-mastodon" 
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
     - label: "GitHub"
       icon: "fas fa-code"
