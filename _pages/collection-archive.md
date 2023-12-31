@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home/oddworld_header.jpg
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
-[Materials](#materials){: .btn .btn--light-outline .btn--small}
+[Materials](#materials){: .btn .btn--light-outline .btn--small} [All assets](#All+assets){: .btn .btn--light-outline .btn--small}
 
 ---
 
@@ -23,7 +23,7 @@ header:
   {% endfor %}
 {% endfor %}
 
-## more Materials
+## All assets
 
 {% capture written_label %}'None'{% endcapture %}
 
