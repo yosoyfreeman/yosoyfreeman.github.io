@@ -65,7 +65,7 @@ author:
   links:
     - label: "Location"
       icon: "fas fa-map-marker-alt"
-      url: "#"
+      url: "(#)"
     - label: "Mastodon"
       icon: "fas fa-hashtag fa-sm"
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
