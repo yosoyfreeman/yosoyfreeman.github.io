@@ -14,7 +14,6 @@ header:
 ---
 
 ## Materials
----
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -24,9 +23,8 @@ header:
     {% endunless %}
   {% endfor %}
 {% endfor %}
-
-## All assets
 ---
+## All assets
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -36,3 +34,4 @@ header:
     {% endunless %}
   {% endfor %}
 {% endfor %}
+---
