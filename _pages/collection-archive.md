@@ -24,11 +24,8 @@ header:
   {% endfor %}
 {% endfor %}
 
-<font size="1"> <a href="#">Back to Top ↑</a> </font>  
-{: style="text-align: right;"}
-
 <p align="right">
-        Right align content
+        <font size="8"> <a href="#">Back to Top ↑</a> </font>  
 </p>
 
 ---
