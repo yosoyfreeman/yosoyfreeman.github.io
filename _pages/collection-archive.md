@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: archive
 title: "Assets"
 permalink: /collection-archive/
 author_profile: true
@@ -12,6 +12,7 @@ header:
 
 ---
 ## Materials
+---
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -23,7 +24,7 @@ header:
 {% endfor %}
 
 ## All assets
-
+---
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
