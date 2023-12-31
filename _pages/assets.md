@@ -3,9 +3,8 @@ title: Assets
 layout: collection
 permalink: /assets/
 collection: assets
-author_profile: false
-entries_layout: grid
-classes: wide
+author_profile: true
+entries_layout: list
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
   actions:
