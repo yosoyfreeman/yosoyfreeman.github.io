@@ -22,7 +22,7 @@ header:
 {% capture written_label %}'None'{% endcapture %}
 
 {% for post in materials.docs %}
-  {% unless materials.output == false or collection.label == "posts" %}
+  {% unless collection.output == false%}
     {% include archive-single.html type=page.entries_layout %}
   {% endunless %}
 {% endfor %}
