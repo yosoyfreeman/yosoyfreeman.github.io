@@ -3,7 +3,7 @@ title: "Freeman's Library for Material Maker"
 excerpt: >
   An open source library with a variety of generic procedural materials.
 header:
-  teaser: https://placehold.co/500x500?text=Freeman%27s+Library+for+Material+Maker
+  teaser: https://placehold.co/500x500
   overlay_image: /assets/images/home/oddworld_header.jpg
   actions:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
