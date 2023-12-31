@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 [Materials](#Materials){: .btn .btn--light-outline} [Sort by category](#){: .btn .btn--success} [Sort by tag](/tags){: .btn .btn--primary}
----
+----
 ## Materials
 {% capture written_label %}'None'{% endcapture %}
 
