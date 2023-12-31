@@ -23,7 +23,7 @@ header:
     {% endunless %}
   {% endfor %}
 {% endfor %}
-### [Back to Top ↑](#)
+<font size=”1”> [Back to Top ↑](#) </font>
 {: style="text-align: right;"}
 
 ---
