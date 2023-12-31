@@ -61,9 +61,8 @@ author:
   name        : "Yo Soy Freeman"
   avatar      : "/assets/images/profile.png"
   bio         : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
-  location    : "Guadalajara, Spain"
   links:
-    - label: "Location"
+    - label: "Spain"
       icon: "fas fa-map-marker-alt"
       url: "##"
     - label: "Mastodon"
