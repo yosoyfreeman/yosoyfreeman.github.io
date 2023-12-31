@@ -5,7 +5,7 @@ permalink: /assets/materials
 collection: materials
 show_excerpts: false
 author_profile: true
-entries_layout: list
+entries_layout: grid
 #classes: wide
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
