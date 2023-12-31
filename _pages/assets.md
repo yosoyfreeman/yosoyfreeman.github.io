@@ -1,9 +1,6 @@
 ---
 title: Assets
 layout: collection
-
-collection: assets
-
 layout: archive
 title: "Assets"
 permalink: /assets/
