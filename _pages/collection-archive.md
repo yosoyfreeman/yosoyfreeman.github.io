@@ -25,6 +25,7 @@ header:
 {% endfor %}
 [Back to Top ↑](#)
 {: style="text-align: right;"}
+
 ---
 
 #### All assets
