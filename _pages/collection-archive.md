@@ -10,7 +10,7 @@ header:
 ---
 
 # Materials
-
+---
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
@@ -19,10 +19,4 @@ header:
       {% include archive-single.html type=page.entries_layout %}
     {% endunless %}
   {% endfor %}
-{% endfor %}
-
-{% for post in collection.docs %}
-  {% unless collection.output == false or collection.label != "materials" %}
-    {% include archive-single.html type=page.entries_layout %}
-  {% endunless %}
 {% endfor %}
