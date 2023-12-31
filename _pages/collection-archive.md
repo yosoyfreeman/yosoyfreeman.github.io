@@ -27,7 +27,7 @@ header:
 <font size=”1”> 
 [Back to Top ↑](#)
 </font>
-{: style="text-align: right;"}
+{: style="text-align: right;"}  
 
 <font size="1">  
     Hello World 
