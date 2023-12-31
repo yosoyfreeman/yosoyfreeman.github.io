@@ -2,8 +2,6 @@
 title: "Freeman's Library for Material Maker"
 excerpt: >
   An open source library with a variety of generic procedural materials.
-  An open source material library made with Material Maker
-  This open source library consists of a variety of generic procedural materials.
 header:
   teaser: https://placehold.co/500x300?text=Freeman%27s+Library+for+Material+Maker
   overlay_image: /assets/images/home/oddworld_header.jpg
