@@ -64,8 +64,8 @@ author:
   location    : "Guadalajara, Spain"
   links:
     - label: "Location"
-      icon: "fa-solid fa-code"
-      url: ""
+      icon: "fas fa-map-marker-alt"
+      url: "#"
     - label: "Mastodon"
       icon: "fas fa-hashtag fa-sm"
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
