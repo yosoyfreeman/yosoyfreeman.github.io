@@ -21,6 +21,7 @@ twitter_username: yosoyfreeman
 github_username: yosoyfreeman
 minimal_mistakes_skin: dark
 search: true
+search_full_content: true
 #Seo 
 google_site_verification: "wFUTmuuKIz1WDAxOy0sCQA0AcH5NnaCH0q6TvyArUnk"
 
@@ -63,7 +64,7 @@ author:
   bio         : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
   links:
     - label: "Spain"
-      icon: "fas fa-map-marker-alt fa-sm"
+      icon: "fas fa-map-marker-alt"
       url: "##"
     - label: "Mastodon"
       icon: "fas fa-hashtag fa-sm"
