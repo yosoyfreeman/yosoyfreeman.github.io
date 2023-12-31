@@ -10,8 +10,9 @@ header:
 ---
 
 [Materials](#materials){: .btn .btn--light-outline .btn--small} [All assets](#all-assets){: .btn .btn--light-outline .btn--small}
-{: style="text-align: center;"}
 ---
+{: style="text-align: center;"}
+
 
 ### Materials 2019
 {% capture written_label %}'None'{% endcapture %}
