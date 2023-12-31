@@ -18,9 +18,4 @@ header:
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
-  {% for post in collection.docs %}
-    {% unless collection.output == false or collection.label != "materials" %}
-      {% include archive-single.html type=page.entries_layout %}
-    {% endunless %}
-  {% endfor %}
 {% endfor %}
