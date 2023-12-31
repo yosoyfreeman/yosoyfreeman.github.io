@@ -11,6 +11,7 @@ header:
 [Materials](#materials){: .btn .btn--light-outline .btn--small} [All assets](#all-assets){: .btn .btn--light-outline .btn--small}
 
 ---
+
 ### Materials
 ---
 {% capture written_label %}'None'{% endcapture %}
