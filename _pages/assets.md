@@ -5,7 +5,7 @@ permalink: /assets/
 collection: assets
 author_profile: true
 entries_layout: grid
-#show_excerpts: true
+show_excerpts: false
 classes: wide
 
 header:
