@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Assets"
-permalink: /assets/all/
+permalink: /assets/
 author_profile: true
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
