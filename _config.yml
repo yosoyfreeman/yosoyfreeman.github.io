@@ -63,7 +63,7 @@ author:
   bio         : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
   links:
     - label: "Spain"
-      icon: "fas fa-map-marker-alt"
+      icon: "fas fa-map-marker-alt fa-sm"
       url: "##"
     - label: "Mastodon"
       icon: "fas fa-hashtag fa-sm"
