@@ -3,6 +3,7 @@ layout: archive
 title: "Assets"
 permalink: /collection-archive/
 author_profile: true
+show_excerpts: false
 #entries_layout: grid
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
