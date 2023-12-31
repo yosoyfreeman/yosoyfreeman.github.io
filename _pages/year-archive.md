@@ -8,5 +8,5 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 [Sort by year](#){: .btn .btn--success .btn--small} [Sort by category](/categories){: .btn .btn--primary .btn--small} [Sort by tag](/tags){: .btn .btn--primary .btn--small}
-
+---
 
