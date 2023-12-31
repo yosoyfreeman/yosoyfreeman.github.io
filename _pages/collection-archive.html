@@ -3,6 +3,7 @@ layout: archive
 title: "Posts by Collection"
 permalink: /collection-archive/
 author_profile: true
+entries_layout: grid
 ---
 
 {% capture written_label %}'None'{% endcapture %}
@@ -24,7 +25,6 @@ author_profile: true
 
 {% capture written_label %}'None'{% endcapture %}
 
-{% for collection in site.collections %}
   {% unless collection.output == false or collection.label != "assets" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
@@ -37,4 +37,9 @@ author_profile: true
       {% include archive-single.html type=page.entries_layout %}
     {% endunless %}
   {% endfor %}
-{% endfor %}
+
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
+</div>
