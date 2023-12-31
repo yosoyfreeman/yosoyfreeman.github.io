@@ -24,6 +24,7 @@ header:
   {% endfor %}
 {% endfor %}
 ---
+
 ## All assets
 {% capture written_label %}'None'{% endcapture %}
 
