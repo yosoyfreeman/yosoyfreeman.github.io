@@ -3,6 +3,9 @@ layout: archive
 title: "Assets"
 permalink: /assets/all/
 author_profile: true
+header:
+  overlay_image: /assets/images/home/oddworld_header.jpg
+  caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 
 {% capture written_label %}'None'{% endcapture %}
