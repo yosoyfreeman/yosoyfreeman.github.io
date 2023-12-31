@@ -3,10 +3,10 @@ title: Assets
 layout: collection
 permalink: /assets/
 collection: assets
-author_profile: true
+author_profile: false
 entries_layout: list
 show_excerpts: true
-classes: wide
+#classes: wide
 
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
