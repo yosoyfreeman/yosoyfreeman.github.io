@@ -5,7 +5,4 @@ permalink: /collection-archive/
 author_profile: true
 ---
 
-{% assign entries_layout = list %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html collection=materials sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
-</div>
+{% include documents-collection.html collection=materials sort_by=page.sort_by sort_order=page.sort_order type=grid %}
