@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
     - label: "GitHub"
-      icon: "fa-brands fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/yosoyfreeman"
     - label: "Codeberg"
       icon: "fas fa-fw fa-code"
