@@ -21,8 +21,3 @@ author_profile: true
     {% endunless %}
   {% endfor %}
 {% endfor %}
-
-{% assign entries_layout = grid | default: 'grid' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html collection=materials sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
-</div>
