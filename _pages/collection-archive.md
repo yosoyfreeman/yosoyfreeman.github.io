@@ -9,6 +9,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 [Materials](#materials){: .btn .btn--light-outline .btn--small}
+
 ---
 
 ## Materials
