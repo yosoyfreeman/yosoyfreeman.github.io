@@ -3,13 +3,13 @@ layout: single
 title: "Assets"
 permalink: /collection-archive/
 author_profile: true
-entries_layout: grid
+#entries_layout: grid
 header:
   overlay_image: /assets/images/home/oddworld_header.jpg
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 [Materials](#Materials){: .btn .btn--light-outline} [Sort by category](#){: .btn .btn--success} [Sort by tag](/tags){: .btn .btn--primary}
-----
+---
 ## Materials
 {% capture written_label %}'None'{% endcapture %}
 
