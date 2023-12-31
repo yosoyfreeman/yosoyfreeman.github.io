@@ -8,7 +8,7 @@ author_profile: true
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
-  {% if collection.output == true and collection.label == "materials"  %}
+  {% if collection.output == true & collection.label == "materials"  %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
       <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
