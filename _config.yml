@@ -63,9 +63,6 @@ author:
   bio         : "I'm a neurodivergent game developer and multidisciplinary artist in love with open source technology."
   location    : "Guadalajara, Spain"
   links:
-    #- label: "Website"
-     # icon: "fas fa-fw fa-link"
-      #url: "https://"
     - label: "Mastodon"
       icon: "fas fa-hashtag fa-sm"
       url: "https://mastodon.gamedev.place/@YoSoyFreeman"
