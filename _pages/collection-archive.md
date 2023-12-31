@@ -9,9 +9,8 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
 [Materials](#materials){: .btn .btn--light-outline .btn--small} [All assets](#all-assets){: .btn .btn--light-outline .btn--small}
----
 {: style="text-align: center;"}
-
+---
 ## Materials
 ---
 {% capture written_label %}'None'{% endcapture %}
