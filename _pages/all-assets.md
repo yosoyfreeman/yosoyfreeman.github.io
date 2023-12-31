@@ -4,11 +4,11 @@ title: "Assets"
 permalink: /assets/all
 author_profile: true
 ---
----
 [Materials](/assets/materials){: .btn .btn--primary .btn--small} [All assets](##){: .btn  .btn--small .btn--success}
 ---
 {: style="text-align: center;"}
 ---
+
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
