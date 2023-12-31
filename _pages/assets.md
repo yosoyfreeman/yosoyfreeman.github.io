@@ -1,7 +1,12 @@
 ---
+title: Assets
+layout: collection
+
+collection: assets
+
 layout: archive
 title: "Assets"
-permalink: /collection-archive/
+permalink: /assets/
 author_profile: true
 #entries_layout: grid
 header:
