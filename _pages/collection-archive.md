@@ -29,9 +29,7 @@ header:
 </font>
 {: style="text-align: right;"}
 
-<font size="1">  
-    Hello World 
-</font>  
+<font size="1">  Hello World </font>  
 
 
 ---
