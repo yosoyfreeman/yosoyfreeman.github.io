@@ -17,7 +17,7 @@ sidebar:
     text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary} "
 
 ---
-{% include figure image_path="https://storage.ko-fi.com/cdn/useruploads/display/191dbbef-a781-405e-b8ad-ba1eb214239b_preview.png" alt="this is a placeholder image "%}
+{% include figure image_path="https://placehold.co/500x300" alt="this is a placeholder image "%}
 
 ## PlaceHolder
 Placeholder
