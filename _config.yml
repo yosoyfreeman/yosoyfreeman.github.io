@@ -104,7 +104,9 @@ collections:
   materials:
     output: true
     permalink: /:collection/:path/
-
+  godot:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -140,10 +142,18 @@ defaults:
       layout: single
       #classes: wide
       author_profile: false
-   # _materials
+  # _materials
   - scope:
       path: ""
       type: materials
+    values:
+      layout: single
+      #classes: wide
+      author_profile: false
+  # _materials
+  - scope:
+      path: ""
+      type: godot
     values:
       layout: single
       #classes: wide
