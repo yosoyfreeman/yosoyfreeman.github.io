@@ -10,9 +10,7 @@ header:
 sidebar:
   - title: "Downloads:"
   - title: ""
-    text: "[Ko-fi](https://ko-fi.com/s/d86a6854ff){: .btn .btn--primary } "
-  - title: ""
-    text: "[Material Maker asset library](https://www.materialmaker.org/materials?search=freeman&type=material){: .btn .btn--primary } "
+    text: "[Ko-fi](##){: .btn .btn--primary } "
   - title: "License:"
     text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary} "
 
