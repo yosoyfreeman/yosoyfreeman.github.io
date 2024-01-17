@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/home/oddworld_header.jpg
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 ---
-[All assets](##){: .btn .btn--success .btn--small} [Materials](/assets/materials){: .btn .btn--primary .btn--small}
+[All assets](##){: .btn .btn--success .btn--small} [Godot](/assets/godot){: .btn .btn--primary .btn--small} [Materials](/assets/materials){: .btn .btn--primary .btn--small}
 ---
 {: style="text-align: center;"}
 ---
