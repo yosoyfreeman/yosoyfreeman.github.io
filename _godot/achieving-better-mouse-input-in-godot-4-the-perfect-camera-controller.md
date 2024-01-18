@@ -31,4 +31,4 @@ A professional first person camera controller made in Godot 4 with a very specif
 * It must use **raw input**.
 * Sensitivity must be **stretch and scale independent**.
 * Sensitivity must be **frame rate independent**.
-* the node’s **transforms must not deteriorate** over time.
+* The node’s **transforms must not deteriorate** over time.
