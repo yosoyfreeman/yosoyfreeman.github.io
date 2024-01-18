@@ -24,6 +24,7 @@ This is a **companion asset!** You can find the **full article** on the `related
 {: .notice--warning}
 
 ## Description
+
 A professional first person camera controller made in Godot 4 with a very specific set of goals:
 {: style="text-align: justify;"}
 
@@ -32,3 +33,7 @@ A professional first person camera controller made in Godot 4 with a very specif
 * Sensitivity must be **stretch and scale independent**.
 * Sensitivity must be **frame rate independent**.
 * The node’s **transforms must not deteriorate** over time.
+{: style="text-align: justify;"}
+
+This project is meant to show the proper use of mouse events to create responsive and reliable controls. For an in-depth exploration of the topic, refer to the full article.
+{: style="text-align: justify;"}
