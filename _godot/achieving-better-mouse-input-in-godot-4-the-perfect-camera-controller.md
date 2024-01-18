@@ -17,6 +17,6 @@ sidebar:
 ---
 {% include figure image_path="https://placekitten.com/500/300" alt="this is a placeholder image "%}
 
-## PlaceHolder
-Placeholder
+## Description
+
 
