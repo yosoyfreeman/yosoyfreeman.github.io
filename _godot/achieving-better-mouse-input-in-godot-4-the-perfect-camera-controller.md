@@ -1,5 +1,5 @@
 ---
-title: "PlaceHolder"
+title: "Achieving better mouse input in Godot 4: The perfect camera controller"
 excerpt: >
   PlaceHolder
 header:
