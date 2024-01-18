@@ -58,6 +58,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Social Sharing
+og_image                 : "/assets/images/profile.png"
+
 author:
   name        : "Yo Soy Freeman"
   avatar      : "/assets/images/profile.png"
