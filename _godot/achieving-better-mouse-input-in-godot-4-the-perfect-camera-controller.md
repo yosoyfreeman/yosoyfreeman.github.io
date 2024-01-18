@@ -24,5 +24,11 @@ This is a **companion asset!** You can find the **full article** on the `related
 {: .notice--warning}
 
 ## Description
+A professional first person camera controller made in Godot 4 with a very specific set of goals:
+{: style="text-align: justify;"}
 
-
+* It must be as responsive as it can.
+* It must use raw input.
+* Sensitivity must be stretch and scale independent.
+* Sensitivity must be frame rate independent.
+* the node’s transforms must not deteriorate over time.
