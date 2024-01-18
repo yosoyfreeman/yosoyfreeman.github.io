@@ -24,15 +24,6 @@ search: true
 search_full_content: true
 #Seo 
 google_site_verification: "wFUTmuuKIz1WDAxOy0sCQA0AcH5NnaCH0q6TvyArUnk"
-
-twitter:
-  username               :
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : assets/images/profile.png
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
