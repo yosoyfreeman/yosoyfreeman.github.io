@@ -1,7 +1,7 @@
 ---
 title: "Achieving better mouse input in Godot 4: The perfect camera controller"
 excerpt: >
-  This project is meant to show the proper use of mouse events to create responsive and reliable controls in both 3D and 2D games. For an in-depth exploration of the topic, refer to the full article
+  "This project is meant to show the proper use of mouse events to create responsive and reliable controls in both 3D and 2D games. For an in-depth exploration of the topic, refer to the full article"
 header:
   teaser: https://placehold.co/500x300?text=Freeman%27s+Library+for+Material+Maker
   overlay_image: /assets/images/home/oddworld_header.jpg
