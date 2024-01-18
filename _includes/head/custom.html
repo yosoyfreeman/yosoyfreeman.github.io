@@ -8,31 +8,3 @@
 <meta name="msapplication-config" content="https://yosoyfreeman.github.io/assets/images/favicon/browserconfig.xml">
 <meta name="theme-color" content="#000000">
 <a rel="me" href="https://mastodon.gamedev.place/@YoSoyFreeman"> </a>
-
- 
-<!-- Open Graph ---->
-<meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:type" content="Article">
-<meta property="og:title" content="{{ page.title }}">
-<meta property="og:description" content="{{ page.excerpt }}">
-<meta property="og:image" content="{{ site.og_image }}">
-
-
-{% if page.summary %}
-<meta property="og:description" content="{{ page.summary }}">
-{% else %}
-<meta property="og:description" content="{{ site.description }}">
-{% endif %}
- 
-
-{% if page.largeimage %}
-<meta property="og:image" content="{{ site.url }}{{ page.largeimage }}">
-{% else %}
-{% if page.image %}
-<meta property="og:image" content="{{ site.url }}{{ page.image }}">
-{% else %}
-<meta property="og:image" content="{{ site.title_image }}">
-{% endif %}
-{% endif %}
-<!-- end open graph -->
- 
