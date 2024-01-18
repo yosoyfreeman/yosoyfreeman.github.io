@@ -1,7 +1,7 @@
 ---
 title: "Achieving better mouse input in Godot 4: The perfect camera controller"
 excerpt: >
-  PlaceHolder
+  Input accumulation, mouse events, raw data, stretch independent sensitivity... and why you **never** multiply mouse input by *delta*
 header:
   teaser: https://placehold.co/500x300?text=Freeman%27s+Library+for+Material+Maker
   overlay_image: /assets/images/home/oddworld_header.jpg
