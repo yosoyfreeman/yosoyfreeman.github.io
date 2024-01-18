@@ -17,8 +17,6 @@ sidebar:
     text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary} "
 
 ---
-{% include figure image_path="https://placekitten.com/500/300" alt="this is a placeholder image "%}
-
 This is a **companion asset!** You can find the **full article** on the `related links` category.
 {: style="text-align: center;"}
 {: .notice--warning}
