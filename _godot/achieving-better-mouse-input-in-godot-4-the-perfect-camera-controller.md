@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 sidebar:
   - title: "Related links:"
-  - text: "[full article](##){: .btn .btn--primary } "
+  - text: "[Full article](##){: .btn .btn--primary } "
   - title: "Downloads:"
   - title: ""
     text: "[Ko-fi](##){: .btn .btn--primary } "
