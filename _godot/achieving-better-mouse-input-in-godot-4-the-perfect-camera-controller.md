@@ -35,5 +35,5 @@ A professional first person camera controller made in Godot 4 with a very specif
 * The node’s **transforms must not deteriorate** over time.
 {: style="text-align: justify;"}
 
-This project is meant to show the proper use of mouse events to create responsive and reliable controls. For an in-depth exploration of the topic, refer to the full article.
+This project is meant to show the proper use of mouse events to create responsive and reliable controls in both 3D and 2D games. For an in-depth exploration of the topic, refer to the full article.
 {: style="text-align: justify;"}
