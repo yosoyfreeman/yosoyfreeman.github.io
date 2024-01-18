@@ -19,7 +19,7 @@ sidebar:
 
 This is a companion asset! You can find the full article on the `related links` category.
 {: style="text-align: center;"}
-{: .notice--info}
+{: .notice--warning}
 
 ## Description
 
