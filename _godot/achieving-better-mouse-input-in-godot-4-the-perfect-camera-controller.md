@@ -12,7 +12,7 @@ sidebar:
   - text: "[Full article](##){: .btn .btn--primary } "
   - title: "Downloads:"
   - title: ""
-    text: "[Ko-fi](##){: .btn .btn--primary } "
+    text: "[Ko-fi](https://ko-fi.com/s/801985dbbc){: .btn .btn--primary } "
   - title: "License:"
     text: "[CC0](https://creativecommons.org/public-domain/cc0/){: .btn .btn--primary} "
 
