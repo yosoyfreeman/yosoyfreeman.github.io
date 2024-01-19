@@ -167,7 +167,7 @@ defaults:
     values:
       layout: single
       #classes: wide
-      author_profile: false
+      author_profile: true
       header:
         overlay_filter: 0.25
         overlay_image: /assets/images/home/oddworld_header.jpg
