@@ -156,6 +156,10 @@ defaults:
       layout: single
       #classes: wide
       author_profile: false
+      header:
+        overlay_filter: 0.25
+        overlay_image: /assets/images/home/oddworld_header.jpg
+        caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
   # _godot
   - scope:
       path: ""
@@ -164,6 +168,10 @@ defaults:
       layout: single
       #classes: wide
       author_profile: false
+      header:
+        overlay_filter: 0.25
+        overlay_image: /assets/images/home/oddworld_header.jpg
+        caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 
 category_archive:
   type: liquid
