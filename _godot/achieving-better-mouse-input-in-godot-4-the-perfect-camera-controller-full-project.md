@@ -1,5 +1,5 @@
 ---
-title: "Achieving better mouse input in Godot 4: The perfect camera controller"
+title: "Achieving better mouse input in Godot 4: The perfect camera controller (Full project)"
 excerpt: >
   This project is meant to show the proper use of mouse events to create responsive and reliable controls in both 3D and 2D games.
 header:
