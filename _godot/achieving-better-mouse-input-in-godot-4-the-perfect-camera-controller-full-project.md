@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
 sidebar:
   - title: "Related links:"
-  - text: "[Full article](##){: .btn .btn--primary } "
+  - text: "[Full article](/article/godot/tutorial/achieving-better-mouse-input-in-godot-4-the-perfect-camera-controller){: .btn .btn--primary } "
   - title: "Downloads:"
   - title: ""
     text: "[Ko-fi](https://ko-fi.com/s/801985dbbc){: .btn .btn--primary } "
