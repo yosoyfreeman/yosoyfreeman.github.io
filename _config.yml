@@ -124,6 +124,7 @@ defaults:
       show_date: true
       #excerpt: ""
       header:
+        overlay_filter: 0.25
         overlay_image: /assets/images/home/oddworld_header.jpg
         caption: "Photo credit: [**Oddworld inhabitants**](http://www.oddworld.com/)"
         
