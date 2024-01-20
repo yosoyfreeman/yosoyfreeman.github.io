@@ -399,7 +399,7 @@ Look at that! The code is **clean** and **efficient** and it's functionality is 
 
 ### Disabling input accumulation
 
-As we have discussed already, [input accumulation](#input-accumulation) must be **disabled in order to get more responsive input**. Depending on the mouse [pull rate](https://www.corsair.com/us/en/explorer/gamer/mice/what-is-polling-rate-does-it-affect-gaming/) and assuming Godot is able to process all the events this **could translate into thousands of calls per second**. That's why disabling input accumulation can become so expensive and why we have a dedicated `AimLook node`. We don't want to be forced to disable accumulation on the main character.
+As we have discussed already, [input accumulation](#input-accumulation) must be **disabled in order to get more responsive input**. Depending on the mouse [poll rate](https://www.corsair.com/us/en/explorer/gamer/mice/what-is-polling-rate-does-it-affect-gaming/) and assuming Godot is able to process all the events this **could translate into thousands of calls per second**. That's why disabling input accumulation can become so expensive and why we have a dedicated `AimLook node`. We don't want to be forced to disable accumulation on the main character.
 {: style="text-align: justify;"}
 
 That said, disabling it is pretty easy. One line inside the `_ready()` function will do the work.
