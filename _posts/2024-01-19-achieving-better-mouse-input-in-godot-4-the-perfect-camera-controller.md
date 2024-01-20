@@ -60,7 +60,7 @@ The first thing to have in mind is that **there is no specific issue to blame**,
 Next i will cover the **5 main elements** that we will be working with in order to achieve a **better mouse control**. Although some of you will be familiar with them already, I will try to give **context and information that you may find useful**.
 {: style="text-align: justify;"}
 
-**Tip:** Because of technical limitations I am **forced** to use spaces instead of tabs for the code snippets. **If you want to save yourself some time time here is a [spaces to tabs converter](https://www.browserling.com/tools/spaces-to-tabs)**. I'll be using 4 spaces per tab.
+**Tip:** Because of technical limitations I am **forced** to use spaces instead of tabs for the code snippets. **If you want to save yourself some time here is a [spaces to tabs converter](https://www.browserling.com/tools/spaces-to-tabs)**. I'll be using 4 spaces per tab.
 {: style="text-align: justify;"}
 {: .notice--success}
 ### Input accumulation
