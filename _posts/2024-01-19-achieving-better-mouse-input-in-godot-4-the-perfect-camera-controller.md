@@ -385,7 +385,6 @@ func _unhandled_input(event)-> void:
         if event is InputEventMouseButton:
             if event.button_index == 1:
                 Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
-                Input.set_mouse_mode(Input.MOUSE_MODE_CAPTURED)
                 
         return
     
