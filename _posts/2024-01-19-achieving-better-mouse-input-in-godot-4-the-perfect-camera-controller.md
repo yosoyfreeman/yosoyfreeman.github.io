@@ -82,7 +82,7 @@ Each type of `event` has it's own **properties**. In this particular case we are
 <cite><a href="https://docs.godotengine.org/en/stable/classes/class_inputeventmousemotion.html#class-inputeventmousemotion-property-relative">Godot InputEventMouseMotion documentation</a></cite>
 {: style="text-align: justify;"}
 
-Is pretty short and **does not explain much** about it's intended use, but it **seems to imply** that this property represents the travel of the mouse from one frame to another, which has lead many users, **specially new ones**, to do something like this:
+It's pretty short and **does not explain much** about it's intended use, but it **seems to imply** that this property represents the travel of the mouse from one frame to another, which has lead many users, **specially new ones**, to do something like this:
 {: style="text-align: justify;"}
 
 **Incorrect**
